@@ -1,0 +1,6 @@
+To Do List: 
+- Create a report of all the available resources (DONE)
+- Make a coffee
+- Check how much the coffee costs (DONE)
+- Make a while loop that can fufill: Choose a coffee --> put in money --> here is you coffee --> do you want another?
+- create seperate functions for all of the tasks. (DONE)
