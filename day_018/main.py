@@ -22,3 +22,4 @@ for num_sides in range(3, 11):
 
 screen = Screen()
 screen.exitonclick()
+ 
