@@ -25,5 +25,7 @@ while playing:
     screen.update()
     time.sleep(0.1)
     snake.move_snake()
+    if snake.hit_wall():
+        playing = False
 
 screen.exitonclick()
