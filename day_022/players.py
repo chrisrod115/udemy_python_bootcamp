@@ -7,13 +7,13 @@ SHAPE = "square"
 
 class Players:
     def __init__(self):
-
         self.location = []
         self.add_segment()
 
+
     def add_segment(self):
         for location in INIT_LOCATION:
-            self.
+            pass
 
 
     def create_segment(self, position):
